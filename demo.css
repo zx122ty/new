@@ -17,7 +17,7 @@ body {
   top: 0;
   width: 100%;
   height: 600px;
-  background-image: url(./img/bac.png);
+  background-image: url(./bac.png);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   margin-bottom: 20px;
@@ -31,7 +31,7 @@ body {
 }
 
 .first .parCel {
-  background-image: url("./img/bac.png");
+  background-image: url("/bac.png");
 }
 
 .liter {
